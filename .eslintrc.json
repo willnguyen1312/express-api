@@ -4,6 +4,8 @@
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "no-console": "off",
+        "array-callback-return": "off"
     }
 }

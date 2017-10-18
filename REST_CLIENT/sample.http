@@ -1,0 +1,5 @@
+### First one
+GET http://localhost:8080/api/ HTTP/1.1
+
+### Another one
+GET http://localhost:8080/api/ HTTP/1.1
